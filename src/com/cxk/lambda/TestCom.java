@@ -11,7 +11,7 @@ public class TestCom {
         Person[] persons = new Person[2];
         persons[0] = new Person(20,"张三");
         persons[1] = new Person(30,"李四");
-        Arrays.sort(persons,(Person p1 ,Person p2)->Integer.compare(p1.getAge(),p2.getAge()));
+        Arrays.sort(persons,( p1 , p2)->Integer.compare(p1.getAge(),p2.getAge()));
         System.out.println(Arrays.toString(persons));
     }
 }

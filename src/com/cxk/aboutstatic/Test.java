@@ -18,6 +18,7 @@ class   ChildClass{
 }
 public class Test {
     public static void main(String[] args) {
+        // 测试用
         System.out.println(SuperClass.a);
         ChildClass[] ch = new ChildClass[10];
     }

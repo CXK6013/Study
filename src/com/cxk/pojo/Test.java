@@ -13,6 +13,7 @@ public class Test {
         int[] arr = new int[2];
         arr[0] = 1;
         test(t,arr);
+		//aaa
 //        System.out.println(test(t,arr));
 //        System.out.println(arr[0]);
         System.out.println(t);

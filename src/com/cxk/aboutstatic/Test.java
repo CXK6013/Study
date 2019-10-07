@@ -21,6 +21,7 @@ public class Test {
         // 测试用
         // 九命天命女
         // 测试qq
+        // qq
         System.out.println(SuperClass.a);
         ChildClass[] ch = new ChildClass[10];
     }

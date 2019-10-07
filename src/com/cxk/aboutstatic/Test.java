@@ -20,7 +20,6 @@ public class Test {
     public static void main(String[] args) {
         // 测试用
         // 九命天命女
-        // 测试qq
         System.out.println(SuperClass.a);
         ChildClass[] ch = new ChildClass[10];
     }
